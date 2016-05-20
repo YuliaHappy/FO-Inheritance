@@ -6,7 +6,7 @@ chai.config.includeStack = true;
 
 let expect = chai.expect;
 
-describe("Military structure", function () {
+describe("Military structure ES6", function () {
 	/*Platoon*/
 	var platoon1 = new Platoon(new Array(25).fill("Human"));
 	it("Create platoon", function () {
