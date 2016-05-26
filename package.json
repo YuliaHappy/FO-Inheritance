@@ -49,6 +49,6 @@
     "watchify": "^3.7.0"
   },
   "browser": {
-    "memoize": "./src/militaryStructureES6.js, ./src/militaryStructureES5.js"
+    "memoize": "./src/Battalion.js, ./src/Coy.js, ./src/Platoon.js, ./src/militaryStructureES5.js"
   }
 }

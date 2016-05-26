@@ -1,6 +1,6 @@
-import { Platoon } from "../src/militaryStructureES6";
-import { Coy } from "../src/militaryStructureES6";
-import { Battalion } from "../src/militaryStructureES6";
+import Platoon from "../src/Platoon";
+import Coy from "../src/Coy";
+import Battalion from "../src/Battalion";
 
 chai.config.includeStack = true;
 
